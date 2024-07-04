@@ -1,5 +1,5 @@
 header{
-  border: solid;
+  
   padding-block: 32px;
   font: var(--text-medium);
 }
@@ -32,7 +32,7 @@ header .container {
 
 
 #info {
-  border: solid;
+  
   list-style: none;
   
 
