@@ -1,4 +1,6 @@
 footer{
+  font: 14px/150% var(--font-family);
+
   display: flex;
   padding-block: 24px;
   gap: 24px;
